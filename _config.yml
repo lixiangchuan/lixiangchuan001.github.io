@@ -1,2 +1,3 @@
-name: Lee ruixuan ,crazy bull
+name: Lee ruixuan 
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
